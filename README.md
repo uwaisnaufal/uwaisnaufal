@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @uwaisnaufal
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Web Development using PHP and Android Development using Flutter
+- 👀 I’m interested in Data Analytics and Data Science
+- 🌱 I’m currently -
 - 📫 I'm currently active on Instagram @uwaisn.k
